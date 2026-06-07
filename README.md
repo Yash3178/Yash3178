@@ -1,9 +1,5 @@
 # About Me:
-💾 SnowPro Certified Data Engineer
-❄️ Working with Snowflake, Python, SQL, ETL/ELT Pipelines, and Modern Data Warehousing.
-📊 Strong foundation in Data Analytics, Data Science, and Machine Learning.
-🚀 Building scalable data solutions that turn raw data into actionable insights.
-🤝 Open to Data Engineering, AI, and Data Platform opportunities.
+💾 SnowPro Certified Data Engineer.❄️ Working with Snowflake, Python, SQL, ETL/ELT Pipelines, and Modern Data Warehousing.📊 Strong foundation in Data Analytics, Data Science, and Machine Learning.🚀 Building scalable data solutions that turn raw data into actionable insights.🤝 Open to Data Engineering, AI, and Data Platform opportunities.
 
 
 <img src = "https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
