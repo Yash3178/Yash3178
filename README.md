@@ -1,5 +1,10 @@
 # About Me:
-💡 Data Analyst with a growing passion for Data Science and real-world ML applications.<br>🔍 Skilled in Python, ML/DL workflows, SQL, and analytical problem-solving.<br>🚀 Always learning and building projects that turn data into insights.<br>🤝 Open to Data Science & AI roles, internships, and collaborations.
+💾 SnowPro Certified Data Engineer
+❄️ Working with Snowflake, Python, SQL, ETL/ELT Pipelines, and Modern Data Warehousing.
+📊 Strong foundation in Data Analytics, Data Science, and Machine Learning.
+🚀 Building scalable data solutions that turn raw data into actionable insights.
+🤝 Open to Data Engineering, AI, and Data Platform opportunities.
+
 
 <img src = "https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
